@@ -113,6 +113,8 @@ pip install streamlit pandas plotly openpyxl scikit-learn xgboost numpy
 
 ## 🚀 Usage
 
+<img width="1358" height="684" alt="powerbi_snap" src="https://github.com/user-attachments/assets/39920b5c-b37b-44e0-aaad-37a2aed1fd08" />
+
 ### Running the Streamlit Application
 
 1. **Ensure Required Files Are Present**:
