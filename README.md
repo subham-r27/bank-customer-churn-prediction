@@ -4,7 +4,7 @@ A comprehensive machine learning project for predicting bank customer churn, fea
 
 ## 📋 Overview
 
-<img width="1358" height="684" alt="powerbi_snap" src="https://github.com/user-attachments/assets/39920b5c-b37b-44e0-aaad-37a2aed1fd08" />
+
 https://github.com/user-attachments/assets/dcf2cad7-e0f8-4d30-8ffb-f50d18a5c1b6
 
 
