@@ -4,6 +4,11 @@ A comprehensive machine learning project for predicting bank customer churn, fea
 
 ## 📋 Overview
 
+<img width="1358" height="684" alt="powerbi_snap" src="https://github.com/user-attachments/assets/39920b5c-b37b-44e0-aaad-37a2aed1fd08" />
+https://github.com/user-attachments/assets/dcf2cad7-e0f8-4d30-8ffb-f50d18a5c1b6
+
+
+
 This project provides an end-to-end solution for predicting customer churn in the banking sector. It combines machine learning model development, interactive web application deployment, and business intelligence visualization to help banks identify at-risk customers and take proactive retention measures.
 
 ## 🎯 Project Components
