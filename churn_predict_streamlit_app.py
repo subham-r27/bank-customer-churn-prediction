@@ -157,7 +157,7 @@ default_values = [
 # ---------------------------------
 # Sidebar
 # ---------------------------------
-st.sidebar.image("media/Pic 1.png", use_container_width=True)
+st.sidebar.image("media/Pic 1.PNG", use_container_width=True)
 st.sidebar.markdown("---")
 st.sidebar.header("📊 User Inputs")
 st.sidebar.markdown("---")
@@ -184,7 +184,7 @@ input_scaled[scale_vars] = scaler.transform(input_data[scale_vars])
 # ---------------------------------
 # Main Header
 # ---------------------------------
-st.image("media/Pic 2.png", use_container_width=True)
+st.image("media/Pic 2.PNG", use_container_width=True)
 st.markdown("<h1>Customer Churn Prediction System</h1>", unsafe_allow_html=True)
 
 # Add some spacing
